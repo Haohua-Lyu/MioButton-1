@@ -11,6 +11,8 @@ const ja_JP = {
         overlapTips: "声重なる再生モードは手動で停止できません。大量のスレッドを作成するので、後リフレッシュしてください。"
     },
     action: {
+        voicepack:"Windowsサウンドパック[大神ミオ Ver]",
+        AvatarFrame: "フブミオ アバターフレーム",
         toggleNavbar: "ナビゲーションバーを切り替える",
         random: "● 今日ランダム",
         share: "Twitterで共有して結果を確認",
